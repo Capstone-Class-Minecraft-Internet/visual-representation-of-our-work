@@ -1,5 +1,6 @@
 # visual-representation-of-our-work
-
+![Image goes here](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work/blob/main/picture/Picture1.png)
+![Image goes here](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work/blob/main/picture/Picture2.png)
 
 # Purpose: 
 * Create a system where we could connect Minecraft to the “internet”.
