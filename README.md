@@ -2,16 +2,16 @@
 
 
 # Purpose: 
-*Create a system where we could connect Minecraft to the “internet”.
-*Create an easy and intuitive way for people to share Minecraft builds without leaving Minecraft. 
-*Use a fun way to introduce computer science principles and networking protocols to users.
+> *Create a system where we could connect Minecraft to the “internet”.
+> *Create an easy and intuitive way for people to share Minecraft builds without leaving Minecraft. 
+> *Use a fun way to introduce computer science principles and networking protocols to users.
 
 # Minecraft Internet Overview
-*Setting up the Minecraft Internet
-*Setting up a discord server
-*Setting up a compatible Minecraft server
-*Setting up a discord to Minecraft plugin
-*Using the Minecraft Internet
+> *Setting up the Minecraft Internet
+> *Setting up a discord server
+> *Setting up a compatible Minecraft server
+> *Setting up a discord to Minecraft plugin
+> *Using the Minecraft Internet
 
 Steps for setting the Minecraft Internet: https://docs.google.com/document/d/1Qs5xLDO0QNNljG4JbwsDyfQLw6ti465QDh5wwUJI0MA/edit 
 
