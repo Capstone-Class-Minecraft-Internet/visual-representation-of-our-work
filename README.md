@@ -35,8 +35,11 @@ Our Firebase DataBase
 https://console.firebase.google.com/project/mindcraftproject-45d64/database/mindcraftproject-45d64-default-rtdb/data 
 
 We can use a code file to order in the Minecraft server through Discord. 
-Chicken Farm:                                                                    Village: 
-![Image goes here](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work/blob/main/picture/Picture7.png)![Image goes here](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work/blob/main/picture/Picture8.png)
+Chicken Farm:                                                                   
+![Image goes here](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work/blob/main/picture/Picture7.png)
+
+Village:   
+![Image goes here](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work/blob/main/picture/Picture8.png)
 
 
 
